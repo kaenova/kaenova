@@ -32,7 +32,7 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 <details>
   <summary>Spotify Now Playing!</summary>
   
-  [![Spotify](https://kaenova.vercel.app/api/spotify)](https://open.spotify.com/user/kaenova)
+  [![Spotify](https://kaemspotify.vercel.app/api/spotify)](https://open.spotify.com/user/kaenova)
   
 </details>
 
@@ -43,8 +43,6 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 [twitter]: [Twitter](https://twitter.com/kaenovamahendra)
 [linkedin]: https://www.linkedin.com/in/kaenova/
 [Instagram]: https://www.instagram.com/kaenovama/
-
-
 
 <!--
 **kaenova/kaenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
