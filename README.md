@@ -29,6 +29,13 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
   
 </details>
 
+<details>
+  <summary>Spotify Now Playing!</summary>
+  
+  [![Spotify](https://kaenova.vercel.app/api/spotify)](https://open.spotify.com/user/kaenova)
+  
+</details>
+
 <br><br>
 <img  align= "right" src="https://cdn.discordapp.com/attachments/527433841690804224/791558706508726292/Pre-comp-3.gif"  width="200">
 
