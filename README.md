@@ -7,7 +7,12 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 [<img align="left" alt="Kaenova Mahendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+<br>
+<br>
+<img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaenova&theme=nord&show_icons=true&hide_border=true" width=350 />
 
 <br><br>
 <img  align= "middle" src="https://cdn.discordapp.com/attachments/527433841690804224/791558706508726292/Pre-comp-3.gif"  width="200">
