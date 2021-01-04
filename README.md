@@ -7,6 +7,7 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 [<img align="left" alt="KaeM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kaenova Mahendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 <br />
 ---
 <details>
@@ -43,6 +44,7 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 [twitter]: [Twitter](https://twitter.com/kaenovamahendra)
 [linkedin]: https://www.linkedin.com/in/kaenova/
 [Instagram]: https://www.instagram.com/kaenovama/
+[Facebook]: https://www.facebook.com/kaenova/
 
 <!--
 **kaenova/kaenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
