@@ -11,7 +11,7 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 
 <details>
   <summary>Recent GitHub Activity</summary>
-    <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
 2. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
 3. ❌ Closed PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
