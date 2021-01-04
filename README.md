@@ -7,10 +7,11 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 [<img align="left" alt="KaeM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kaenova Mahendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
 
+---
 <details>
   <summary>Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
 2. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
@@ -18,11 +19,14 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 4. 💪 Opened PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
 5. 🎉 Merged PR [#1](https://github.com/kaenova/Tubes_Statistika/pull/1) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>
   <summary>GitHub Stats</summary>
+  
   <img align="middle" alt="Kaenova's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaenova&theme=nord&show_icons=true&hide_border=true" width=350 />
+  
 </details>
 
 <br><br>
