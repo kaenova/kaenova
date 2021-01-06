@@ -2,7 +2,7 @@
 #### Programmer• Musician • Practicum Assistant at Telkom University
 Currently Majoring on Computer Science, Telkom University, Indonesia :books: :computer: 
 
-🌱 I’m currently learning HTML, CSS, and JavaScript
+🌱 I’m currently learning HTML, CSS, and JavaScript  
 🎯 Make a website for KaeM
 
 ### Connect with Me!
