@@ -1,6 +1,9 @@
 ### Hello! My name is Kaenova Welcome to My GitHub Profile! :handshake:
 #### Programmer• Musician • Practicum Assistant at Telkom University
-Currently Majoring on Computer Science, Telkom University, Indonesia :books: :computer:  
+Currently Majoring on Computer Science, Telkom University, Indonesia :books: :computer: 
+
+🌱 I’m currently learning HTML, CSS, and JavaScript
+🎯 Make a website for KaeM
 
 ### Connect with Me!
 [<img align="left" alt="KaeM | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
