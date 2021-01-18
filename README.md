@@ -1,5 +1,5 @@
 ### Hello! My name is Kaenova Welcome to My GitHub Profile! :handshake:
-#### Programmer• Musician • Human
+#### Programmer • Musician • Human
 Majoring Computer Science, Telkom University, Indonesia :books: :computer: 
 
 🌱 I’m currently learning HTML, CSS, and JavaScript  
