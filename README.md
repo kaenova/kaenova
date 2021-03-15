@@ -17,11 +17,11 @@ Majoring Computer Science, Telkom University, Indonesia :books: :computer:
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-2. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-3. ❌ Closed PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-4. 💪 Opened PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-5. 🎉 Merged PR [#1](https://github.com/kaenova/Tubes_Statistika/pull/1) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+1. 🎉 Merged PR [#1](https://github.com/kaenova/AI_Tupro1/pull/1) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
+2. 💪 Opened PR [#1](https://github.com/kaenova/AI_Tupro1/pull/1) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
+3. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+4. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+5. ❌ Closed PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
 <!--END_SECTION:activity-->
 
 </details>
