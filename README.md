@@ -18,9 +18,9 @@ Majoring Computer Science, Telkom University, Indonesia :books: :computer:
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm/issues/1) in [ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm](https://github.com/ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm)
-2. 🎉 Merged PR [#2](https://github.com/kaenova/AI_Tupro1/pull/2) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
-3. 💪 Opened PR [#2](https://github.com/kaenova/AI_Tupro1/pull/2) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
-4. 🎉 Merged PR [#1](https://github.com/kaenova/AI_Tupro1/pull/1) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
+2. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+3. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+4. ❌ Closed PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
 5. 💪 Opened PR [#1](https://github.com/kaenova/AI_Tupro1/pull/1) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
 <!--END_SECTION:activity-->
 
