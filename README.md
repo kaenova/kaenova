@@ -28,14 +28,20 @@ Majoring Computer Science, Telkom University, Indonesia :books: :computer:
 
 <details>
   <summary>GitHub Stats</summary>
-<<<<<<< HEAD
   <table border="0" cellspacing="0">
     <tr>
     <td><img align="middle" alt="Kaenova's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaenova&theme=nord&show_icons=true&hide_border=true" width=350 /></td>
-    <td><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenova&theme=nord">
+    <td><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenova&theme=nord&hide_border=true">
     </td>
     </tr>
   </table>
+</details>
+
+<details>
+  <summary>Spotify Now Playing!</summary>
+  
+  [![Spotify](https://kaemspotify.vercel.app/api/spotify)](https://open.spotify.com/user/kaenova)
+  
 </details>
 
 <br><br>
