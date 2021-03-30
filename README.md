@@ -1,27 +1,34 @@
-### Hello! I'm Kaenova Welcome to My GitHub Profile! :handshake:
-#### Programmer• Musician • Practicum Assistant at Telkom University
-Currently Majoring on Computer Science, Telkom University, Indonesia :books: :computer:  
+### Hello! My name is Kaenova Welcome to My GitHub Profile! :handshake:
+#### Programmer • Musician • Human
+Majoring Computer Science, Telkom University, Indonesia :books: :computer: 
+
+🌱 I’m currently learning HTML, CSS, and JavaScript  
+🎯 Make a website for KaeM
 
 ### Connect with Me!
 [<img align="left" alt="KaeM | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="KaeM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Kaenova Mahendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
-
+[<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+<br />
+---
 <details>
   <summary>Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-2. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-3. ❌ Closed PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-4. 💪 Opened PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-5. 🎉 Merged PR [#1](https://github.com/kaenova/Tubes_Statistika/pull/1) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+1. ❗️ Opened issue [#1](https://github.com/ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm/issues/1) in [ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm](https://github.com/ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm)
+2. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+3. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+4. ❌ Closed PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
+5. 💪 Opened PR [#1](https://github.com/kaenova/AI_Tupro1/pull/1) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>
   <summary>GitHub Stats</summary>
+<<<<<<< HEAD
   <table border="0" cellspacing="0">
     <tr>
     <td><img align="middle" alt="Kaenova's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaenova&theme=nord&show_icons=true&hide_border=true" width=350 /></td>
@@ -38,8 +45,7 @@ Currently Majoring on Computer Science, Telkom University, Indonesia :books: :co
 [twitter]: [Twitter](https://twitter.com/kaenovamahendra)
 [linkedin]: https://www.linkedin.com/in/kaenova/
 [Instagram]: https://www.instagram.com/kaenovama/
-
-
+[Facebook]: https://www.facebook.com/kaenova/
 
 <!--
 **kaenova/kaenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
