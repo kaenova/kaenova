@@ -15,7 +15,7 @@ Currently Majoring Computer Science, <b><a href="https://telkomuniversity.ac.id/
 <details align="center" id="details">
    <summary> <samp>&#10303; Details</samp></summary>
    <p align="center">
-     <p><b><samp>Language and Tools I Used</samp><b></p>
+     <p><b><samp>Language and Tools I Used</samp></b></p></b></b>
        <p><samp>click the language to see my project</samp></p>
      <p align="center">
      <a href="https://github.com/search?q=user%3Akaenova+language%3AJavaScript&type=Repositories&ref=advsearch&l=JavaScript&l="><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
