@@ -31,11 +31,14 @@ Currently Majoring Computer Science, <b><a href="https://telkomuniversity.ac.id/
      <a href="https://www.linkedin.com/in/kaenova/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="https://twitter.com/kaenovama"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
      </p>
-     <p><b><samp>Currently Listening on Spotify!</samp></b></p>
+     <p><b><samp>Currently Played on My Spotify!</samp></b></p>
      <p>
      <p align="center">
-      <a href="https://open.spotify.com/user/kaenova"><img src="https://kaemspotify.vercel.app/api/spotify" width="40%"></a>
+      <a href="https://natemoo-re-git-master-kaenova.vercel.app/now-playing">
+    <img src="https://natemoo-re-git-master-kaenova.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+      </a>
     <p></b></b>
+    <p align="center"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaenova&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A">
     <p align="center"><samp>Made by <a href="#begin">KMA</a><br>&#119063; with Ref from <a href="https://github.com/kevinjycui">kevinjycui</a> &#119063;</p>
   </p>
 </details>
