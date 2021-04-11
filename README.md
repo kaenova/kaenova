@@ -35,7 +35,7 @@ Currently Majoring Computer Science, <b><a href="https://telkomuniversity.ac.id/
      <p>
      <p align="center">
       <a href="https://natemoo-re-git-master-kaenova.vercel.app/now-playing">
-    <img src="https://natemoo-re-git-master-kaenova.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://natemoo-re-git-master-kaenova.vercel.app/now-playing" alt="Now Playing">
       </a>
     <p></b></b>
     <p align="center">&#822; &#822; &#822;<br><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaenova&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" width="12%"></p>
