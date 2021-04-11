@@ -1,69 +1,44 @@
-### Hello! My name is Kaenova Welcome to My GitHub Profile! :handshake:
-#### Programmer • Musician • Human
-Majoring Computer Science, Telkom University, Indonesia :books: :computer: 
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/829581469936386079/830470865190912081/K-Gif.gif" height="80px"/>
+</p>
 
-🌱 I’m currently learning HTML, CSS, and JavaScript  
-🎯 Make a website for KaeM
+<h4 align="center" id="begin"><samp>• Hello my name <b><a>Kaenova Mahendra Auditama</a> •</b></h4>
 
-### Connect with Me!
-[<img align="left" alt="KaeM | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="KaeM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kaenova Mahendra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Kaenova Mahendra | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
-<br />
----
-<details>
-  <summary>Recent GitHub Activity</summary>
+<p><b>&#9487</b></p>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm/issues/1) in [ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm](https://github.com/ShinyQ/Tugas-Pengantar-AI-1_Genetic-Algorithm)
-2. 🎉 Merged PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-3. 💪 Opened PR [#3](https://github.com/kaenova/Tubes_Statistika/pull/3) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-4. ❌ Closed PR [#2](https://github.com/kaenova/Tubes_Statistika/pull/2) in [kaenova/Tubes_Statistika](https://github.com/kaenova/Tubes_Statistika)
-5. 💪 Opened PR [#1](https://github.com/kaenova/AI_Tupro1/pull/1) in [kaenova/AI_Tupro1](https://github.com/kaenova/AI_Tupro1)
-<!--END_SECTION:activity-->
+<p align="center"><samp>
+I'm a Programmer • Musician • Laboratory Assistant
+<br>
+Currently Majoring Computer Science, <b><a href="https://telkomuniversity.ac.id/akademik/#1578999582648-12ba585c-201d">Telkom University</a></b>
+</samp></p>
 
+<details align="center" id="details">
+   <summary> <samp>&#10303; Details</samp></summary>
+   <p align="center">
+     <p><b><samp>Language and Tools I Used</samp><b></p>
+     <p align="center">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+     <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+     </p>
+     <p id="med"><b><samp>My Social Media</samp></b></p>
+     <p align="center">
+     <a href="https://www.instagram.com/kaenovama/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+     <a href="https://www.linkedin.com/in/kaenova/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+     <a href="https://twitter.com/kaenovama"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+     </p>
+     <p><b><samp>Currently Listening on Spotify!</samp></b></p>
+     <p>
+     <p align="center">
+      <a href="https://open.spotify.com/user/kaenova"><img src="https://kaemspotify.vercel.app/api/spotify" width="40%"></a>
+    <p></b></b>
+    <p align="center"><samp>Made by <a href="#begin">KMA</a><br>&#119063; with Ref from <a href="https://github.com/kevinjycui">kevinjycui</a> &#119063;</p>
+  </p>
 </details>
-
-<details>
-  <summary>GitHub Stats</summary>
-  <table border="0" cellspacing="0">
-    <tr>
-    <td><img align="middle" alt="Kaenova's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaenova&theme=nord&show_icons=true&hide_border=true" width=350 /></td>
-    <td><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaenova&theme=nord&hide_border=true">
-    </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary>Spotify Now Playing!</summary>
-  
-  [![Spotify](https://kaemspotify.vercel.app/api/spotify)](https://open.spotify.com/user/kaenova)
   
 </details>
 
-<br><br>
-<img  align= "right" src="https://cdn.discordapp.com/attachments/527433841690804224/791558706508726292/Pre-comp-3.gif"  width="200">
-
-[Youtube]: https://www.youtube.com/user/kaenovagtg
-[twitter]: [Twitter](https://twitter.com/kaenovamahendra)
-[linkedin]: https://www.linkedin.com/in/kaenova/
-[Instagram]: https://www.instagram.com/kaenovama/
-[Facebook]: https://www.facebook.com/kaenova/
-
-<!--
-**kaenova/kaenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right"><b>&#9499</b></p>
