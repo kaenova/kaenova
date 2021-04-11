@@ -16,13 +16,14 @@ Currently Majoring Computer Science, <b><a href="https://telkomuniversity.ac.id/
    <summary> <samp>&#10303; Details</samp></summary>
    <p align="center">
      <p><b><samp>Language and Tools I Used</samp><b></p>
+       <p><samp>click the language to see my project</samp></p>
      <p align="center">
-     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-     <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-     <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
-     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-     <img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+     <a href="https://github.com/search?q=user%3Akaenova+language%3AJavaScript&type=Repositories&ref=advsearch&l=JavaScript&l="><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+     <a href="https://github.com/search?q=user%3Akaenova+language%3AC%2B%2B&type=Repositories&ref=advsearch&l=C%2B%2B&l="><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
+     <a href="https://github.com/search?q=user%3Akaenova+language%3AGo&type=Repositories&ref=advsearch&l=Go&l="><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
+     <a href="https://github.com/search?q=user%3Akaenova+language%3A%22Jupyter+Notebook%22+language%3Apython&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
+     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/></a>
      </p>
      <p id="med"><b><samp>My Social Media</samp></b></p>
      <p align="center">
