@@ -34,7 +34,7 @@ Currently Majoring Computer Science, <b><a href="https://telkomuniversity.ac.id/
      <p>
      <p align="center">
       <a href="https://open.spotify.com/user/kaenova"><img src="https://kaemspotify.vercel.app/api/spotify" width="40%"></a>
-    <p>
+    <p></b></b>
     <p align="center"><samp>Made by <a href="#begin">KMA</a><br>&#119063; with Ref from <a href="https://github.com/kevinjycui">kevinjycui </a>&#119063;</p>
   </p>
 </details>
