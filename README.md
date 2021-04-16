@@ -9,7 +9,7 @@
 <p align="center"><samp>
 I'm a Programmer • Musician • Laboratory Assistant
 <br>
-Currently Majoring Computer Science, <b><a href="https://telkomuniversity.ac.id/akademik/#1578999582648-12ba585c-201d">Telkom University</a></b>
+Currently Majoring Computer Science, <b><a href="https://io.telkomuniversity.ac.id/degree-program/faculty-of-computing/informatics/">Telkom University</a></b>
 </samp></p>
 
 <details align="center" id="details">
