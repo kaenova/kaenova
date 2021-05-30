@@ -23,6 +23,7 @@ Currently Majoring Computer Science, <b><a href="https://io.telkomuniversity.ac.
      <a href="https://github.com/kaenova?tab=repositories&q=&type=&language=go&sort="><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
      <a href="https://github.com/search?q=user%3Akaenova+language%3A%22Jupyter+Notebook%22+language%3Apython&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
      <a href="#"><img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/></a>
      </p>
      <p id="med"><b><samp>My Social Media</samp></b></p>
