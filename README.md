@@ -8,7 +8,7 @@
 <p><b>&#9487</b></p>
 
 <p align="center"><samp>
-I'm a Programmer • Musician • Laboratory Assistant
+Programmer • Musician • Laboratory Assistant
 <br>
 Currently Majoring Computer Science, <b><a href="https://io.telkomuniversity.ac.id/degree-program/faculty-of-computing/informatics/">Telkom University</a></b>
 </samp></p>
