@@ -14,7 +14,6 @@ Currently Majoring Computer Science, <b><a href="https://io.telkomuniversity.ac.
 </samp></p>
 
 <details align="center" id="details">
-   <summary> <samp>&#10303; Details</samp></summary>
    <p align="center">
      <p><b><samp>Language and Tools I Use</samp></b></p></b></b>
        <p><samp><sup>click the language to see my project</sup></samp></p>
