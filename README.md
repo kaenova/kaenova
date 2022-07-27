@@ -8,7 +8,7 @@
 <p><b>&#9487</b></p>
 
 <p align="center"><samp>
-ML Engineer Enthusiast • NLP Researcher • Software Engineer at Kerjago
+ML / DevOps Engineer Enthusiast • NLP Researcher
 <br>
 Currently Majoring Computer Science, <b><a href="https://io.telkomuniversity.ac.id/degree-program/faculty-of-computing/informatics/">Telkom University</a></b>
 </samp></p>
