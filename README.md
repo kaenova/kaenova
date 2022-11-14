@@ -39,7 +39,7 @@ Currently Majoring Computer Science, <b><a href="https://io.telkomuniversity.ac.
     <img src="https://natemoo-re-git-master-kaenova.vercel.app/now-playing" alt="Now Playing">
       </a>
     <p></b></b>
-    <p align="center">&#822; &#822; &#822;<br><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=kaenova&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A" width="105px"></p>
+    <p align="center">&#822; &#822; &#822;<br><img src="https://api.visitorbadge.io/api/VisitorHit?user=kaenova&repo=github-visitors-badge&countColor=%237B1E7A" width="105px"></p>
     <p align="center"><b><samp>🎪 Jack of All Trades 🎪</samp></b></p>
     <p align="center"><samp>Made by <a href="#begin">KMA</a><br>&#119063; with Ref from <a href="https://github.com/kevinjycui">kevinjycui</a> &#119063;</p>
   </p>
