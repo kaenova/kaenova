@@ -18,7 +18,7 @@ Currently Majoring Computer Science, <b><a href="https://io.telkomuniversity.ac.
      <p><b><samp>Language and Tools I Use</samp></b></p></b></b>
        <p><samp><sup>click the language to see my project</sup></samp></p>
      <p align="center">
-     <a href="https://github.com/search?q=user%3Akaenova+language%3A%22Javascript%22+language%3ATypescript&type=Repositories"><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+     <a href="https://github.com/search?q=user%3Akaenova+language%3A%22Javascript%22+language%3ATypescript&type=Repositories"><img alt="JavaScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <!--      <a href="https://github.com/kaenova?tab=repositories&q=&type=&language=c%2B%2B&sort="><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a> -->
      <a href="https://github.com/kaenova?tab=repositories&q=&type=&language=go&sort="><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></a>
      <a href="https://github.com/search?q=user%3Akaenova+language%3A%22Jupyter+Notebook%22+language%3Apython&type=Repositories"><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
